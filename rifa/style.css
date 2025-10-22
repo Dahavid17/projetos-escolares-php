@@ -1,0 +1,72 @@
+/* Estilos gerais para remover margens e preenchimentos
+   que podem interferir no layout 
+*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* Garante que padding e borda não aumentem o tamanho do elemento */
+}
+
+/* Estilo para a barra de navegação no topo */
+.menu-horizontal {
+    background-color: #333; /* Cor de fundo escura */
+    width: 100%; /* Ocupa toda a largura */
+    position: sticky; /* Mantém o menu no topo ao rolar (pode usar 'fixed' para fixar completamente) */
+    top: 0; /* Aderido ao topo */
+    z-index: 1000; /* Garante que fique acima de outros elementos */
+}
+
+/* Remove marcadores da lista */
+.menu-horizontal ul {
+    list-style: none;
+    text-align: center; /* Centraliza os itens do menu */
+    padding: 0; /* Zera padding para melhor controle */
+}
+
+/* Faz os itens da lista ficarem lado a lado */
+.menu-horizontal ul li {
+    display: inline-block; /* Alinha os itens na horizontal */
+}
+
+/* Estilo para os links */
+.menu-horizontal ul li a {
+    display: block; /* Ocupa toda a área do <li> para ser clicável */
+    padding: 15px 20px; /* Preenchimento interno */
+    text-decoration: none; /* Remove sublinhado */
+    color: white; /* Cor do texto */
+    font-family: Arial, sans-serif;
+    transition: background-color 0.3s; /* Transição suave para o efeito hover */
+}
+
+/* Efeito ao passar o mouse */
+.menu-horizontal ul li a:hover {
+    background-color: #434343; /* Cor de fundo um pouco mais clara ao passar o mouse */
+    color: #dd9544; /* Cor do texto em destaque */
+}
+        .formulario-contato label {
+            display: block;
+            margin-top: 10px;
+            font-weight: bold;
+        }
+        .formulario-contato input[type="text"],
+        .formulario-contato input[type="email"],
+        .formulario-contato textarea {
+            width: 100%;
+            padding: 8px;
+            margin-top: 5px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        .formulario-contato button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 15px;
+            margin-top: 15px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .formulario-contato button:hover {
+            background-color: #45a049;
+        }
