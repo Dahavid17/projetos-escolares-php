@@ -1,0 +1,20 @@
+--------------------------------------------------
+NOVO PEDIDO RECEBIDO EM: 2025-10-29 13:55:37
+--------------------------------------------------
+PRODUTO/ASSUNTO: Beijinho de Coco
+CLIENTE: Davi (daviansan17@gmail.com)
+Telefone: 99 999 999
+Endereço: aqui na escola
+OBSERVAÇÕES: 1, chocolate, hoje e agora
+--------------------------------------------------
+
+--------------------------------------------------
+NOVO PEDIDO RECEBIDO EM: 2025-10-29 13:56:35
+--------------------------------------------------
+PRODUTO/ASSUNTO: Beijinho de Coco
+CLIENTE: Joao (JoaoDudu@gmail.com)
+Telefone: 88 888 888
+Endereço: na casa do dudu
+OBSERVAÇÕES: 25, morango, agora
+--------------------------------------------------
+

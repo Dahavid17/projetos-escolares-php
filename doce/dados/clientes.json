@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "nome": "Davi",
+        "email": "daviansan17@gmail.com",
+        "telefone": "99 999 999",
+        "endereco": "aqui na escola",
+        "data_cadastro": "2025-10-29 13:55:37"
+    },
+    {
+        "id": 2,
+        "nome": "Joao",
+        "email": "JoaoDudu@gmail.com",
+        "telefone": "88 888 888",
+        "endereco": "na casa do dudu",
+        "data_cadastro": "2025-10-29 13:56:35"
+    }
+]

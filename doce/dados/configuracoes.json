@@ -1,0 +1,17 @@
+{
+    "nome_loja": "João Docinhos",
+    "slogan": "O Sabor da Sua Festa!",
+    "whatsapp": "(99) 99999-9999",
+    "email_contato": "contato@joaodocinhos.com.br",
+    "endereco": "Rua dos Doces, 123 - Bairro Adoçado, Cidade Doce - CD",
+    "horarios": {
+        "dias_uteis": "9h às 18h",
+        "sabado": "9h às 14h",
+        "domingo": "Fechado"
+    },
+    "redes_sociais": {
+        "instagram": "https://instagram.com/joaodocinhos",
+        "facebook": "https://facebook.com/joaodocinhos"
+    },
+    "ano_fundacao": 2025
+}

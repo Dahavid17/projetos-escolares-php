@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "nome": "Brigadeiro Tradicional",
+        "descricao": "O clássico perfeito: feito com leite condensado e chocolate 50% cacau.",
+        "preco": 3.50,
+        "categoria": "Clássico",
+        "imagem": "brigadeiro_tradicional.jpg"
+    },
+    {
+        "id": 2,
+        "nome": "Beijinho de Coco",
+        "descricao": "Doce de leite condensado e coco fresco, coberto com flocos.",
+        "preco": 3.50,
+        "categoria": "Clássico",
+        "imagem": "beijinho.jpg"
+    },
+    {
+        "id": 3,
+        "nome": "Bolo de Cenoura Vulcão",
+        "descricao": "Bolo fofinho de cenoura com uma cascata generosa de chocolate.",
+        "preco": 55.00,
+        "categoria": "Bolo",
+        "imagem": "bolo_cenoura.jpg"
+    },
+    {
+        "id": 4,
+        "nome": "Palha Italiana Gourmet",
+        "descricao": "Biscoito maisena triturado, envolto em um delicioso creme de brigadeiro.",
+        "preco": 5.00,
+        "categoria": "Gourmet",
+        "imagem": "palha_italiana.jpg"
+    }
+]
